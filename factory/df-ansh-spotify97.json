@@ -1,0 +1,15 @@
+{
+	"name": "df-ansh-spotify97",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "71cf4ce4-6a4e-4df2-aaac-88cae6898b4c",
+		"tenantId": "5b3e3167-2c3f-46df-9fdf-62ef96d84550"
+	}
+}
